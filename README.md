@@ -1,6 +1,9 @@
 # Hi! My Name is Matt!
 
-I am a Front End Web Development student through edX. I love being creative and designing! I work as a Content Creation Expert for Person Centred Software in the UK. I am also a musician in a band called 'whitenoise' we play post hard core and you can [check us out here!](https://linktr.ee/whitenoise_uk_) 
+## Front End Web Development Student at  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) 
+
+
+I love being creative and designing! I work as a Content Creation Expert for Person Centred Software in the UK. I am also a musician in a band called 'whitenoise' we play post hard core and you can [check us out here!](https://linktr.ee/whitenoise_uk_) 
 
 ## About Me
 
@@ -13,3 +16,5 @@ Beyond the digital canvas, I express my creativity through music. A singer and g
 I firmly believe in the power of hard work—a principle that has guided me through various pursuits. I'm excited about the journey ahead, embracing challenges and striving to make a positive impact through my work.
 
 Let's connect, share ideas, and create something amazing together! 🚀
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
