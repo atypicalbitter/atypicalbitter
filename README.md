@@ -3,7 +3,7 @@
 ### Front End Web Development Student at:
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) 
 
-I love being creative and designing! I work as a Content Creation Expert for Person Centred Software in the UK. I am also a musician in a band called 'whitenoise' we play post hard core and you can [check us out here!](https://linktr.ee/whitenoise_uk_) 
+I love being creative and designing! I work as a Content Creation Expert for Person Centred Software in the UK. I am also a musician in a band called 'whitenoise' we play post hardcore and you can [check us out here!](https://linktr.ee/whitenoise_uk_) 
 
 ## About Me
 
