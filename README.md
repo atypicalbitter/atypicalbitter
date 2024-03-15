@@ -1,6 +1,6 @@
 # Hi! My Name is Matt!
 
-### Front End Web Development Student at:
+### Achieved an A in Front End Web Development at:
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) 
 
 I love being creative and designing! I work as a Content Creation Expert for Person Centred Software in the UK. 
