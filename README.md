@@ -17,8 +17,6 @@ I firmly believe in the power of hard work—a principle that has guided me thro
 
 Let's connect, share ideas, and create something amazing together! 🚀
 
-I am also a musician in a band called 'whitenoise' we play post hardcore and you can [check us out here!](https://linktr.ee/whitenoise_uk_) 
-
 # Here is some of the technologies I can use: 
 
 ## Design 
